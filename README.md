@@ -8,7 +8,7 @@ EASYRENT – A mobile-first rental app concept designed to simplify furniture an
 - Micro-interactions
 
 ## Live Project
-https://digital-measure-201094.framer.app/
+https://renteasy.framer.website/
 
 ## Tools Used
 - Framer
